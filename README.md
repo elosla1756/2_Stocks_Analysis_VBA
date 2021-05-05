@@ -15,8 +15,9 @@ For 2018, the original All Stocks Analysis code ran in 0.7 seconds, while the re
 
 Below are the screenshots of the 4 sets of run times:
 
-https://github.com/eslawinski/Module_2_Stocks_Analysis_Challenge/blob/main/Resources/2017%20Stock%20Returns.PNG
-https://github.com/eslawinski/Module_2_Stocks_Analysis_Challenge/blob/main/Resources/2018%20Stock%20Returns.PNG
+![2017 Stock Returns](Resources/2017%20Stock%20Returns.PNG)
+
+
 
 
 
