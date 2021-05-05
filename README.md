@@ -30,6 +30,7 @@ b. ***Using the original code:***
 Below are the screenshots of the 2 sets of stock returns:
 
 ![2017 Stock Returns](Resources/2017%20Stock%20Returns.PNG)
+
 ![2018 Stock Returns](Resources/2018%20Stock%20Returns.PNG)
 
 ## **Summary**:
