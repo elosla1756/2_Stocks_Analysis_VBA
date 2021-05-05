@@ -16,11 +16,13 @@ For 2018, the original All Stocks Analysis code ran in 0.7 seconds, while the re
 Below are the screenshots of the 4 sets of run times:
 
 a. ***Using the refactored code:***
+
 ![2017 Refactored Code](Resources/VBA_Challenge_2017.PNG)
 
 ![2018 Refactored Code](Resources/VBA_Challenge_2018.PNG)
 
 b. ***Using the original code:***
+
 ![2017 Original Code](Resources/VBA_Challenge_2017_All_Stock_Analysis.PNG)
 
 ![2018 Original Code](Resources/VBA_Challenge_2018_All_Stock_Analysis.PNG)
@@ -35,10 +37,7 @@ Below are the screenshots of the 2 sets of stock returns:
 
 ## **Summary**:
  
-1. What are the advantages or disadvantages of refactoring code?
 The main advantage in refactoring a code is the decrease in the macro run time, as seen above in the 4 screenshots
-
-2. How do these pros and cons apply to refactoring the original VBA script?
 
 ###**Pros**: 
 - Refactoring allows the code to be more organized and work faster
