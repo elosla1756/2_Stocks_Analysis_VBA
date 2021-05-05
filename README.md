@@ -15,7 +15,9 @@ For 2018, the original All Stocks Analysis code ran in 0.7 seconds, while the re
 
 Below are the screenshots of the 4 sets of run times:
 
+![2017 Refactored Code](Resources/VBA_Challenge_2017.PNG)
 
+![2018 Refactored Code](Resources/VBA_Challenge_2018.PNG)
 
 
 3) Through this quick analysis, Steve can clearly see that 2017 was a much better year to invest in any of the 12 stocks he had selected, with the exception of TERP. In contrast, in 2018, only 2 stocks provided positive returns (ENPH and RUN).
